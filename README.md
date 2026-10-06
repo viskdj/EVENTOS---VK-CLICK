@@ -34,4 +34,4 @@ Criar fluxos de cadastro separados com permissões diferentes; validar os dados
 empresariais dos organizadores antes de liberar a publicação de eventos. 
 
 
-                          Especificação de Requisitos  
+                          
