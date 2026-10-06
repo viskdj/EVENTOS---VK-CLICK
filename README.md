@@ -35,19 +35,3 @@ empresariais dos organizadores antes de liberar a publicação de eventos.
 
 
                           Especificação de Requisitos  
-
-
-1. Finalidade 
-
-Define de forma organizada o que o aplicativo deve realizar e quais qualidades, 
-restrições e interfaces devem ser atendidas para conectar participantes, eventos, 
-localizar usuários e retorno de cashback e carona solidária,  organizadores em 
-uma única plataforma. 
-Quando utilizar 
-● Após a elicitação e definição inicial do escopo. 
-● Antes do planejamento detalhado, construção e testes. 
-● Sempre que houver mudança relevante ou nova versão. 
-Resultados esperados 
-● Requisitos identificados e verificáveis. 
-● Escopo funcional e não funcional consolidado. 
-● Base para rastreabilidade, estimativa e validação.
